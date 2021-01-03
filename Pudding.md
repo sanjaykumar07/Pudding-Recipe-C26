@@ -1,6 +1,8 @@
+
+
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-<img src="text.jpg" width="400"/> <img src="puddingimage.jpg" width="300"/>
+<img src="text.jpg" width="400"/> <img src="puddingimage.jpg" width="400" height="227"/>
 
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
@@ -9,7 +11,6 @@ Pudding is a favorite dessert, snack and treat for a lot of people. Flavors incl
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 # Ingredients of Pudding
-
 
 <ul> 
 <li>120 gm refined flour</li>
